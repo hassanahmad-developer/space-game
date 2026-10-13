@@ -17,7 +17,7 @@ export const GAME = {
       label: "Windows",
       detail: "Windows 10 or 11, 64-bit",
       size: "135 MB",
-      url: `${base}space-game Setup 1.0.0.exe`,
+      url: "https://github.com/hassanahmad-developer/space-game/releases/download/v1.0.0/space-game.Setup.1.0.0.exe",
     },
   },
 
