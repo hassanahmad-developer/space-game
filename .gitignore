@@ -31,3 +31,22 @@ Thumbs.db
 
 # Game installer (too large for GitHub)
 public/*.exe
+
+# Unused game assets
+public/assets/musics/
+public/assets/characters/
+public/assets/planets/
+public/assets/surface/
+public/assets/sprites.json
+public/assets/backgrounds/space_nebula_red.png
+public/assets/backgrounds/space_nebula_teal.png
+public/assets/backgrounds/space_stars_near.png
+public/assets/space/alien_mothership.png
+public/assets/space/alien_ships.png
+public/assets/space/blackhole.png
+public/assets/space/explosion.png
+public/assets/space/laser_beam.png
+public/assets/space/powerups.png
+public/assets/space/projectiles.png
+public/assets/space/shield.png
+public/assets/space/stations.png
